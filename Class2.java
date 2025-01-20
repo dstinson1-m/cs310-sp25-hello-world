@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Denzel Stinson
  */
 
 public class Class2 {
